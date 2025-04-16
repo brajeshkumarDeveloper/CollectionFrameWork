@@ -77,7 +77,7 @@ public class ArrayListMethods {
 		System.out.println(subList);
 		
 		
-		//conver List to Array
+		//convert List to Array
 		
 		ArrayList<String> newList = new ArrayList<>(Arrays.asList("Brajesh","Naveen" ,"Naveen", "Lisa","Naveen"));
 		
